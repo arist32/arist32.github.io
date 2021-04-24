@@ -1,3 +1,3 @@
 # chenmeinianguo.github.io
 
-This is my resume page.
+CIS 400 Assignment 2
